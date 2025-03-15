@@ -25,7 +25,7 @@ const AppContent = () => {
       <Navbar />
       <div className="content">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/tasks" element={<Tasks />} />
           <Route path="/refer" element={<Refer />} />
           <Route path="/leaderboard" element={<Leaderboard />} />
