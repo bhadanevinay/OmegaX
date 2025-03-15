@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OmegaX/static/css/main.a513dc8f.css",
+    "main.js": "/OmegaX/static/js/main.60e5b4b2.js",
+    "static/js/453.92ad7ee2.chunk.js": "/OmegaX/static/js/453.92ad7ee2.chunk.js",
+    "index.html": "/OmegaX/index.html",
+    "main.a513dc8f.css.map": "/OmegaX/static/css/main.a513dc8f.css.map",
+    "main.60e5b4b2.js.map": "/OmegaX/static/js/main.60e5b4b2.js.map",
+    "453.92ad7ee2.chunk.js.map": "/OmegaX/static/js/453.92ad7ee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a513dc8f.css",
+    "static/js/main.60e5b4b2.js"
+  ]
+}
