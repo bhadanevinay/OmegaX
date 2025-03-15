@@ -1,0 +1,66 @@
+.refer-container {
+    text-align: center;
+    color: white;
+    padding: 20px;
+  }
+  
+  .referral-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .referral-link {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background: #222;
+    color: white;
+    text-align: center;
+  }
+  
+  .copy-btn, .share-btn {
+    background: #0088cc;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .copy-btn:hover, .share-btn:hover {
+    background: #0077b5;
+  }
+  
+  /* Invited Users Section */
+  .invites-section {
+    margin-top: 30px;
+  }
+  
+  .invited-users {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .invited-user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: #222;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px auto;
+    width: 60%;
+  }
+  
+  .user-icon {
+    color: #ffcc00;
+    font-size: 1.2rem;
+  }
+  
