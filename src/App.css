@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.app-container {
+  text-align: center;
+  max-width: 480px;
+  margin: auto;
+  background: #111;
+  min-height: 100vh;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
+
+.page {
+  padding: 20px;
+  font-size: 18px;
+}
+
+/* Navbar Styling */
+.navbar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  justify-content: space-around;
+  background: #222;
+  padding: 10px 0;
+  border-top: 1px solid #444;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.navbar a:hover {
+  color: #999;
+}
